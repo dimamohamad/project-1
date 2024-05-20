@@ -72,12 +72,7 @@ nav {
     font-size: 30px;
 }
 
-/* #iconlinks a{
-    display: flex;flex-direction: row;
-    width:30px;
-    height: 30px;
-  }
-  */
+
 .icon {
     width: 35px;
     height: 35px;
@@ -132,12 +127,6 @@ nav {
     font-size: 20px;
 }
 
-/* 
-#Bheader.header {
-    align-items: center;
-    padding-right: 50px;
-    font-weight: bolder;
-} */
 
 #fourthsec {
     border: #daefdc solid 2px;
@@ -175,55 +164,6 @@ nav {
     margin-left: 5px;
 }
 
-/* 
-#skills {
-    text-align: center;
-    margin-left: 100px;
-}
-
-#ul-skills {
-    display: flex;
-    align-content: space-between;
-    justify-content: space-evenly;
-    font-weight: bold;
-    font-size: 20px;
-
-}
-
-.ul-skills1 {
-    font-size: 20px;
-    font-weight: lighter;
-} */
-
-
-/* 
-.listdiv1{
-    border: 2px solid white;
-    background-color: #E8DDD0;
-    align-items: center;
-    border-radius: 40px;
-    width: 300px;
-}
-.l1{padding-right: 30px;}
-.listdiv{
-    border: 2px solid white;
-    background-color: #E8DDD0;
-    align-items: center;
-    border-radius: 40px;
-    width: 300px;
-} */
-/* 
-#skill-b {
-    border: 2px solid white;
-    background-color: #E8DDD0;
-    width: 700px;
-    align-items: center;
-    border-radius: 40px;
-    margin-left: 470px;
-    margin-right: 300px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-} */
 
 #fifthsec {
     display: flex;
@@ -347,10 +287,7 @@ nav {
     width: 350px;
     height: 140px;
     margin-top: 5px;
-/*    
-    position: absolute;
-    right: 0px;
-    top: 0px; */
+
 
 }
 
@@ -375,9 +312,7 @@ nav {
     padding-bottom:5px;
     display: flex;
     align-items: center;
-    /* border: 1px solid  #E8DDD0; */
     background-color:  #e4d4bf;
-    /* position: relative; */
 }
 #footer1{
     background-color:  #e4d4bf
@@ -426,7 +361,7 @@ nav {
 .lan1 {
     width: 500px;
     padding: 20px;
-    /* border: 1px solid green; */
+   
 }
 
 .lanname {
@@ -533,11 +468,7 @@ a.nav-link:hover {
         height: 300px;
     }
 
-    /* 
-    .langlist1,
-    .langitem1 {
-        font-size: 15px;
-    } */
+    
 
     #proj-div {
         flex-direction: column;
@@ -610,20 +541,6 @@ a.nav-link:hover {
         height: 300px;
     }
 
-    /* #skill-b {
-        width: 350px;
-    }
-
-    #ul-skills {
-        font-size: 15px;
-        margin-top: 5px;
-        margin-left: 5px;
-    }
-
-    .ul-skills1 {
-        font-size: 12px;
-        padding: 5px;
-    } */
 
     #workimg {
         width: 300px;
@@ -661,10 +578,6 @@ a.nav-link:hover {
     #seventhsec {
         flex-direction: column;
     }
-
-    /* .langlist1 {
-        font-size: 15px;
-    } */
 
     #proj-div {
         flex-direction: column;
